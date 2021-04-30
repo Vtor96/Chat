@@ -2,9 +2,9 @@ package server;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
-import java.io.IOException; // Странно, почему у вас гита небыло прошел авторизацию и все
-import java.net.ServerSocket; // У вас самой программы git нету, я её сейчас скачиваб я понял
-import java.net.Socket; // а он
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 
 public class Server {
